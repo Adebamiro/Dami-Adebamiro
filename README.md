@@ -1,6 +1,5 @@
-# Damilola-Adebamiro
 
-👋 Hi, I’m @Adebamiro 
+👋 Hi, I’m @ Damilola-Adebamiro 
 
 👀 I’m interested in data analysis, python, R, SQL , social media and web science
 
