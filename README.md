@@ -7,4 +7,4 @@
 
 💞️ I’m looking to collaborate on SQL, data visualization and exploration
 
-📫 How to reach me damilolaadebamiro0@gmail.com
+📫 How to reach me damiadebamiro@gmail.com
